@@ -391,13 +391,7 @@ This system can save up to **40-60% water** compared to traditional irrigation:
 - [ ] LoRa support for remote farms
 - [ ] Integration with farm management systems
 
-## 🎥 Demo
 
-### Video Demonstration
-[Add YouTube link]
-
-### Installation Guide
-[Add video tutorial link]
 
 ## 🤝 Contributing
 
